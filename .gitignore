@@ -1,0 +1,23 @@
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/*/data.json
+.obsidian/cache
+.obsidian/graph.json
+
+# System
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+*~
+
+# Sensitive (if any)
+.env
+*.local
